@@ -1,11 +1,13 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Jennifer Arreola 
+subtitle: Data Scientist | Business Analytics 
+email: jennifer1132arreola@gmail.com
+linkedin: https://www.linkedin.com/in/jennifer-arreola/
+url: https://jennifer-arreola.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "SQL Fanatic - PowerBI - Python - R - Machine Learning - Time Series Forecasting"
+meta_author: Arreola Jennifer
 
 # Google webmaster tools
 google_verify:
