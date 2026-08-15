@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Aug 2026
 client: Prague Metro System - Generated Data For Adv. Data Eng. Course
 category: Pipeline Architecture & Business Analytics
-description: End-to-end data pipeline for a transit business use case: automated Airflow ingestion into a centralized data lake, dbt dimensional models for analytics-ready data, and live Grafana dashboards giving stakeholders real-time visibility into operations and demographics.
+description: "End-to-end data pipeline for a transit business use case: automated Airflow ingestion into a centralized data lake, dbt dimensional models for analytics-ready data, and live Grafana dashboards giving stakeholders real-time visibility into operations and demographics."
 ---
