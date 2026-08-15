@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025
-img: prague.png
+img: cabin.png
 alt: image-alt
 project-date: Aug 2026
 client: Prague Metro System - Generated Data For Adv. Data Eng. Course
