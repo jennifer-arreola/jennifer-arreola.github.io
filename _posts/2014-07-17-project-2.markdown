@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2026-08-14
-img: flight.png
+img: cake.png
 alt: image-alt
 project-date: Fall 2025
 class: Adv. Linear Regression Models
