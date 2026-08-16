@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2026-08-17
 img: circus.png
 alt: image-alt
-project-date: April 201
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Summer 2026
+client: Oregon Wine Board
+category: Oregon Wine Capstone
+description: "This project focused on whether Oregon's changing climate affects wine yield differently by variety and by point in the growing season, building a 38 year database linking vineyard production records to daily climate data across Oregon's wine regions. I built a staged Support Vector Machine model, trained separately on what a grower actually knows at each point in the season, and found that predictive power peaked once summer climate data arrived, then declined when harvest stage features were added. Variety identity outweighed any single climate variable at every stage, with growing degree days as the one climate signal that consistently mattered, while features tied to wine quality, including Pinot Noir's narrowing diurnal temperature range, barely moved the yield model at all, evidence that yield and quality are separate outcomes."
+writeup-url: "https://wu-msds-capstones.github.io/exploring-the-wine-climate-relationship-in-oregon/"
 ---

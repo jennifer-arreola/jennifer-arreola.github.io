@@ -36,6 +36,11 @@
               </li>
               {% endif %}
             </ul>
+            {% if post.writeup-url %}
+            <a href="{{ post.writeup-url }}" target="_blank" class="btn btn-primary">
+              <i class="fa fa-external-link"></i> Read Full Write-Up
+            </a>
+            {% endif %}
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>

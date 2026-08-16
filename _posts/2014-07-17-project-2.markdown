@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2026-08-14
-img: flight.png
+img: cake.png
 alt: image-alt
 project-date: Fall 2025
 class: Adv. Linear Regression Models
 category: Statistics and Time Series Analysis
-description:Linear regression analysis of 30+ years of U.S. airfare data in R, testing distance as a fare predictor. Found distance significant (p < 0.001) but explaining only 24% of variability (R² = 0.24); diagnostic and ANOVA analysis revealed heteroscedasticity and non-normality, motivating ongoing multivariate work.
+description: "Linear regression analysis of 30+ years of U.S. airfare data in R, testing distance as a fare predictor. Found distance significant (p < 0.001) but explaining only 24% of variability (R² = 0.24); diagnostic and ANOVA analysis revealed heteroscedasticity and non-normality, motivating ongoing multivariate work."
 ---
